@@ -184,3 +184,123 @@ footer h1 {
     font-size: 14px;
     color: #9a9a9a;
 }
+
+.colored-title {
+    color: #18978F;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 35px;
+    display: flex;
+}
+
+.ex-pd {
+    padding: 30px 0px;
+}
+
+.icon {
+    background-color: #18978F;
+    padding: 15px 18px;
+    width: 50px;
+    border-radius: 8px;
+}
+
+.icon img {
+    width: 100%;
+}
+
+.left-section {
+    width: 50%;
+}
+
+.right-section {
+    width: 50%;
+}
+
+.right-section img {
+    width: 100%;
+}
+
+.text-area {
+    width: 400px;
+    margin: auto 20px;
+}
+
+.text-area p {
+    margin: 0px;
+    font-size: 15px;
+    letter-spacing: normal;
+}
+
+.blogs img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.blogs {
+    width: 33%;
+    height: 350px;
+    padding: 20px;
+    /* box-shadow: 0px 11px 68px -32px #575757; */
+    box-shadow: 0 14px 28px rgba(121, 121, 121, 0.25), 0 10px 10px rgba(170, 170, 170, 0.22);
+    text-align: left;
+    border-radius: 15px;
+    margin: 17px;
+    background-color: #FFF;
+    transition: 0.5s;
+}
+
+.blogs:hover {
+    cursor: pointer;
+    margin-top: -12px;
+    margin-bottom: 12px;
+}
+
+.blogs h3 {
+    margin: 10px 0px;
+    font-size: 30px;
+}
+
+.blog {
+    margin: 100px 0px;
+    text-align: center;
+}
+
+.email {
+    background-color: antiquewhite;
+    padding: 80px 100px;
+}
+
+.email input {
+    width: 50%;
+    padding: 15px;
+    font-size: 18px;
+    border: navajowhite;
+    border-radius: 5px 0px 0px 5px;
+    background: #dadada;
+}
+
+.email a {
+    width: 20%;
+    padding: 13.5px 26px;
+    font-size: 17px;
+    border: navajowhite;
+    border-radius: 0px 5px 5px 0px;
+    background: #18978F;
+    color: white;
+}
+
+.email input:focus-visible {
+    outline: none;
+}
+
+
+.email-us {
+    margin: 30px 0px 150px;
+}
