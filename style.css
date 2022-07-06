@@ -296,6 +296,10 @@ li {
     color: white;
 }
 
+.email a:hover {
+    cursor: pointer;
+}
+
 .email input:focus-visible {
     outline: none;
 }
